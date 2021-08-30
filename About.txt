@@ -1,0 +1,7 @@
+Tables required
+
+1. Admin -> name, email, password, registerationNumber, department, dob, joiningyear,avatar, contact no.
+
+2. faculty -> name, email, password,gender,designation, registerationNumber,aadharcard no, department,dob,subjectcanTeach, joiningyear,avatar, contact no, otp.
+
+3. student -> name, email, password, registerationNumber, department, dob, year,avatar,subjects,fathername, father no, mothername, mother no,aadharcard no,  contact no, batch, section, otp.
